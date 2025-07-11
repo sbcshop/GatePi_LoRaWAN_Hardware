@@ -5,8 +5,8 @@
 This Github provides hardware design files for GatePi LoRaWAN 4CH/8CH.
 
 ### Repository Contents:
-  - [/Design Data](https://github.com/sbcshop/LoRaWAN_HAT_Node_Hardware/tree/main/Design%20Data) - This directory contains Schematic, Top and Bottom View of device.
-  - [/Mechanical Data](https://github.com/sbcshop/LoRaWAN_HAT_Node_Hardware/tree/main/Mechanical%20Data) - This directory contains Dimension, 3D and STEP files of device.
+  - [/Design Data](https://github.com/sbcshop/GatePi_LoRaWAN_Hardware/tree/main/Design%20Data) - This directory contains Schematic, Top and Bottom View of device.
+  - [/Mechanical Data](https://github.com/sbcshop/GatePi_LoRaWAN_Hardware/tree/main/Mechanical%20Data) - This directory contains Dimension, 3D and STEP files of device.
   - [Getting Started Guide](https://github.com/sbcshop/GatePi_LoRaWAN_Software) - This repository includes instructions for getting started with GatePi LoRaWAN 4CH/8CH.
     
 **DISCLAIMER: The files provided, including mechanical dimensions, and STEP files, are for reference only. Variations may exist between these files and the actual physical product. We do not assume responsibility for any discrepancies or damages resulting from their use. It is strongly recommended to verify all critical dimensions and specifications using the physical product before manufacturing or integration.**
